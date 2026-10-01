@@ -104,3 +104,5 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+Test Game Creation/Library/PackageCache/com.unity.burst@f7a407abf4d5/.Runtime/libburst-llvm-19.dylib
+Test Game Creation/Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@3c4c356523ed/data~/payload.tar.7z
